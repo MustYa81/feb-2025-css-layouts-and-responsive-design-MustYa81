@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">Logo</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="menu-toggle">
+                <div class="hamburger"></div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="content">
+            <article class="card">
+                <h2>Article 1</h2>
+                <p>My name is Mustafa Isaq and this a test page.</p>
+            </article>
+            <article class="card">
+                <h2>Article 2</h2>
+                <p>It is an assignment for PLP week 4.</p>
+            </article>
+            <article class="card">
+                <h2>Article 3</h2>
+                <p>CSS Layouts and Responsive Design.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MoostYa</p>
+    </footer>
+</body>
+</html>
